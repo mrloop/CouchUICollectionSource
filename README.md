@@ -1,5 +1,7 @@
 # CouchUICollectionSource
 
+[![endorse](http://api.coderwall.com/mrloop/endorsecount.png)](http://coderwall.com/mrloop)
+
 UICollectionViewDataSource using data from a couchdb query.
 Very similar to CouchUITableSource in CocoaCouch respoitory.
 
